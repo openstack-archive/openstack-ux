@@ -15,3 +15,11 @@ Pull requests submitted through GitHub will be ignored.
 Bugs should be filed on Launchpad, not GitHub:
 
    https://bugs.launchpad.net/openstack-ux
+
+Blueprints should also be filed on Launchpad:
+
+   https://blueprints.launchpad.net/openstack-ux
+
+Design Mockups are added and reviewed through InVision:
+
+   https://openstack.invisionapp.com

@@ -7,6 +7,7 @@ OpenStack UX
 * Wiki: https://wiki.openstack.org/wiki/UX
 * Documentation: http://docs.openstack.org/developer/openstack-ux
 * Source: http://git.openstack.org/cgit/openstack-us/openstack-ux
+* Design Mockups: https://openstack.invisionapp.com/
 * Bugs: http://bugs.launchpad.net/openstack-ux
 
 Mission

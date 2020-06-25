@@ -1,26 +1,10 @@
-===============================
-openstack-ux
-===============================
+This project is no longer maintained.
 
-OpenStack UX
-------------
-* Wiki: https://wiki.openstack.org/wiki/UX
-* Documentation: http://docs.openstack.org/developer/openstack-ux
-* Source: http://git.openstack.org/cgit/openstack-us/openstack-ux
-* Design Mockups: https://openstack.invisionapp.com/
-* Bugs: http://bugs.launchpad.net/openstack-ux
+The contents of this repository are still available in the Git
+source code management system.  To see the contents of this
+repository before it reached its end of life, please check out the
+previous commit with "git checkout HEAD^1".
 
-Mission
--------
-
-The mission of the UX Program is to support and facilitate cross-project
-efforts to improve the overall user experience of OpenStack. We provide user
-research to help teams identify any issues preventing adoption of their
-services as well as help the projects validate design and development efforts
-to address those issues. In addition, we help the project teams create
-solutions to address customer needs and pain points. Finally, we will provide
-the OpenStack community with visibility into any user experience issues
-related to inconsistency across projects.
-
-The UX team is not prescriptive; our goal is to collaborate with OpenStack’s
-projects to create better experiences.
+For any further questions, please email
+openstack-discuss@lists.openstack.org or join #openstack-dev on
+Freenode.
